@@ -1,6 +1,6 @@
 import React from 'react';
 import AppsIcon from '@material-ui/icons/Apps';
-import Avatar from '@material-ui/core/Avatar';
+import Avatar from '@material-ui/core';
 
 function Home() {
     return (
